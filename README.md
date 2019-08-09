@@ -1,5 +1,8 @@
 # Laravel Eloquent 5.8 + Adminlte2
 
+[![Adminlte](https://s3.envato.com/files/235447125/preview-24.png)](https://www.youtube.com/watch?v=-3QfuaSCTvg)
+
+
 ## Getting Started
 
 [AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE) - Code 
